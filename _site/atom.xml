@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="/xsl/atom.xsl" media="all"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://baraka24.github.io/first-cecil-project/</id>
+  <title>KAVUGHO KASAY SAFI</title>
+  <subtitle><![CDATA[apprendre cecil et réaliser mon examen]]></subtitle>
+  <link href="https://baraka24.github.io/first-cecil-project/atom.xml" rel="self" type="application/atom+xml" />
+  <link href="https://baraka24.github.io/first-cecil-project/" rel="alternate" type="text/html" />
+  <updated>2025-04-14T14:31:46+00:00</updated>
+  <author>
+    <name>KAVUGHO KASAY SAFI</name>
+    <uri>https://github.com/safi/</uri>
+  </author>
+</feed>

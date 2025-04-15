@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /404.html
+Sitemap: https://baraka24.github.io/first-cecil-project/sitemap.xml
